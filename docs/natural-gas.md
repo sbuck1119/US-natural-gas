@@ -6,7 +6,7 @@ nav_order: 1
 
 # U.S. 2019 CO<sub>2</sub> Emissions Reduction from Natural Gas&quest;
 
-The article titled “Biden & Democrats conceal U.S. CO<sub>2</sub> decreases of 3.4 billion tons from natural gas”, written by Larry Hamlin, is intended to persuade its primary audience of the American general public that the Democratic Party’s climate change goals hurt Americans and that natural gas is the best source for the U.S.’s future energy production (Hamlin, 2021).
+The article titled “Biden &amp; Democrats conceal U.S. CO<sub>2</sub> decreases of 3.4 billion tons from natural gas”, written by Larry Hamlin, is intended to persuade its primary audience of the American general public that the Democratic Party’s climate change goals hurt Americans and that natural gas is the best source for the U.S.’s future energy production (Hamlin, 2021).
 Its main source of information is from the U.S. Energy Information Administration, which released a report in September 2020 showing that U.S. carbon dioxide emissions were reduced by 2.8&percnt; in 2019 compared to the previous year (Hamlin, 2021; U.S. Energy Information Administration (EIA), 2020).
 The article then goes on to attribute this emissions reduction primarily to a switch from coal to natural gas, while implying that the U.S. does not need to drastically reduce carbon emissions and is much better in comparison to developing countries such as China and India (Hamlin, 2021).
 In addition, renewable energy sources (particularly solar and wind), were not credited with reducing overall carbon dioxide emissions and were attributed to causing grid unreliability and blackouts (Hamlin, 2021).
