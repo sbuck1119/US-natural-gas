@@ -11,7 +11,7 @@ Its main source of information is from the U.S. Energy Information Administratio
 The article then goes on to attribute this emissions reduction primarily to a switch from coal to natural gas, while implying that the U.S. does not need to drastically reduce carbon emissions and is much better in comparison to developing countries such as China and India (Hamlin, 2021).
 In addition, renewable energy sources (particularly solar and wind), were not credited with reducing overall carbon dioxide emissions and were attributed to causing grid unreliability and blackouts (Hamlin, 2021).
 Although none of the numerical facts or graphs presented are incorrect, the way in which they are used is a fallacy of relative privation—"because natural gas is less bad than oil, it must be the best option”.
-<br>
+
 The article’s attribution of the decrease in carbon dioxide emissions to increased use of natural gas is not showing the complete picture (Hamlin, 2021).
 Its own primary source acknowledges that while a switch from coal to natural gas led to a decrease of 525 MMmt of CO2 emissions in 2019, non-carbon-related energy sources contributed to a further 330 MMmt CO2 emissions reduction, a significant amount (U.S. Energy Information Administration (EIA), 2020).
 In addition, due to natural gas having the lowest emissions compared to other fossil fuels, it has been seen as a short- and medium-term transition fuel to eventual net-zero carbon energy sources (Pachauri et al., 2015; Safari et al., 2019; Gürsan and de Gooyert, 2021).
