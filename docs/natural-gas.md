@@ -7,7 +7,7 @@ nav_order: 1
 # U.S. 2019 CO<sub>2</sub> Emissions Reduction from Natural Gas?
 
 The article titled “Biden & Democrats conceal U.S. CO<sub>2</sub> decreases of 3.4 billion tons from natural gas”, written by Larry Hamlin, is intended to persuade its primary audience of the American general public that the Democratic Party’s climate change goals hurt Americans and that natural gas is the best source for the U.S.’s future energy production (Hamlin, 2021).
-Its main source of information is from the U.S. Energy Information Administration, which released a report in September 2020 showing that U.S. carbon dioxide emissions were reduced by 2.8% in 2019 compared to the previous year (Hamlin, 2021; U.S. Energy Information Administration (EIA), 2020).
+Its main source of information is from the U.S. Energy Information Administration, which released a report in September 2020 showing that U.S. carbon dioxide emissions were reduced by 2.8&percnt; in 2019 compared to the previous year (Hamlin, 2021; U.S. Energy Information Administration (EIA), 2020).
 The article then goes on to attribute this emissions reduction primarily to a switch from coal to natural gas, while implying that the U.S. does not need to drastically reduce carbon emissions and is much better in comparison to developing countries such as China and India (Hamlin, 2021).
 In addition, renewable energy sources (particularly solar and wind), were not credited with reducing overall carbon dioxide emissions and were attributed to causing grid unreliability and blackouts (Hamlin, 2021).
 Although none of the numerical facts or graphs presented are incorrect, the way in which they are used is a fallacy of relative privation—"because natural gas is less bad than oil, it *must* be the best option”.
@@ -18,9 +18,9 @@ In addition, due to natural gas having the lowest emissions compared to other fo
 However, the eventual goal is to transition completely to low and zero emissions energy sources, which the article fails to communicate when recommending natural gas. 
 
 Furthermore, the article’s claims that the U.S. is not a major contributor to global climate change, especially in comparison to China and India, can be well-disputed.
-In 2018, the U.S. was the second largest contributor to global carbon dioxide emissions (15%), at roughly half of China’s emissions (28%), while India contributed about half of the U.S.’s total emissions (7%) (Friedlingstein et al., 2019).
+In 2018, the U.S. was the second largest contributor to global carbon dioxide emissions (15&percnt;), at roughly half of China’s emissions (28&percnt;), while India contributed about half of the U.S.’s total emissions (7&percnt;) (Friedlingstein et al., 2019).
 However, per capita carbon dioxide emissions in 2018 were highest for the U.S. at 4.5 tC/person compared to 1.9 tC/person for China, only 0.5 tC/person for India, and a global average of 1.3 tC/person (Friedlingstein et al., 2019).
-This points to a 2.8% decrease in carbon dioxide emissions from 2018 to 2019 in the U.S. being far from enough to be equitable or sustainable.
+This points to a 2.8&percnt; decrease in carbon dioxide emissions from 2018 to 2019 in the U.S. being far from enough to be equitable or sustainable.
 
 While turning to natural gas may be an interim solution to the high carbon dioxide emissions from coal, it is not the completely “clean” source that the article touts it as.
 Emitting approximately 53.4 kg of CO<sub>2</sub> per every thousand cubic feet of natural gas from combustion alone (Heede and Oreskes, 2016), there are more climate change-conscious options available.
@@ -37,6 +37,6 @@ Heede, R. and Oreskes, N., 2016. Potential emissions of CO2 and methane from pro
 
 Pachauri, R.K., Allen, M.R., Barros, V.R., Broome, J., Cramer, W., Christ, R., Church, J.A., Clarke, L., Dahe, Q., Dasgupta, P., Dubash, N.K., Edenhofer, O., Elgizouli, I., Field, C.B., Forster, P., Friedlingstein, P., Fuglestvedt, J., Gomez-Echeverri, L., Hallegatte, S., Hegerl, G., Howden, M., Jiang, K., Jimenez Cisneros, B., Kattsov, V., Lee, H., Mach, K.J., Marotzke, J., Mastrandrea, M.D., Meyer, L., Minx, J., Mulugetta, Y., O’Brien, K., Oppenheimer, M., Pereira, J.J., Pichs-Madruga, R., Plattner, G.-K., Pörtner, H.-O., Power, S.B., Preston, B., Ravindranath, N.H., Reisinger, A., Riahi, K., Rusticucci, M., Scholes, R., Seyboth, K., Sokona, Y., Stavins, R., Stocker, T.F., Tschakert, P., van Vuuren, D. and van Ypersele, J.-P., 2015. *Climate change 2014: synthesis report*. Geneva, Switzerland: Intergovernmental Panel on Climate Change.
 
-Safari, A., Das, N., Langhelle, O., Roy, J. and Assadi, M., 2019. Natural gas: A transition fuel for sustainable energy system transformation? *Energy Science & Engineering*, 7(4), pp.1075–1094.
+Safari, A., Das, N., Langhelle, O., Roy, J. and Assadi, M., 2019. Natural gas: A transition fuel for sustainable energy system transformation? *Energy Science &amp; Engineering*, 7(4), pp.1075–1094.
 
 U.S. Energy Information Administration (EIA), 2020. *U.S. Energy-Related Carbon Dioxide Emissions, 2019*. [online] Available at: <https://www.eia.gov/environment/emissions/carbon/> [Accessed 14 Feb. 2021].
